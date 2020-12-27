@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">ShoeStore</string>
+    <string name="app_name">GoodEats</string>
+    <string name="greeting_text">Hello there, Welcome Back</string>
+    <string name="sign_in_prompt">Sign in to continue</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">LOGIN</string>
+    <string name="new_user_text">New User? SIGN UP</string>
+    />
 </resources>
