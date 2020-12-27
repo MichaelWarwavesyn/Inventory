@@ -6,5 +6,8 @@
     <string name="password_hint">Password</string>
     <string name="login_button_text">LOGIN</string>
     <string name="new_user_text">New User? SIGN UP</string>
+    <string name="welcome_text">Welcome Screen</string>
+    <string name="welcome_screen_information_text">Welcome Screen Information</string>
+    <string name="instructions_button_text">Instructions</string>
     />
 </resources>
